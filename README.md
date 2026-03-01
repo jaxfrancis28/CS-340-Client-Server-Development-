@@ -1,2 +1,4 @@
 # CS-340-Client-Server-Development-
 Grazioso Salvare Projects
+<img width="468" height="264" alt="image" src="https://github.com/user-attachments/assets/917f68a3-1331-4277-9cd8-30c166b21afb" />
+I am a software engineer who works for Global Rain, a company that specializes in custom software design and development. The Image below is the Grazioso Salvare Rescue Shelter Website application that was created by my team and me. Designed for the Austin animal shelter center to identify good candidate dogs and cats for search-and-rescue training. My role centers on creating secure, efficient, and tailored applications that solve specific client problems, such as replacing paper-based processes or enhancing data protection. The functions in the project include Interactive filters for the data table, along with a geolocation and a pie chart. 
